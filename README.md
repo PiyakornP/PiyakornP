@@ -62,6 +62,11 @@
 ### 📊 My Language & Framework Stats
 
 <p align="center">
+  <td width="50%" valign="top">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=PiyakornP&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight" />
+  </a>
+</td>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PiyakornP&layout=pie&theme=tokyonight&hide_border=true" />
   </a>

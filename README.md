@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://github.com/PiyakornP/PiyakornP/blob/main/download.png?raw=true" alt="Piyakorn - Developer on a cosmic journey">
+  <img src="https://github.com/PiyakornP/PiyakornP/blob/main/download.png?raw=true" alt="Piyakorn - Developer on a cosmic journey" width="800px">
 </div>
   <br><br>
   <strong>Hello, I'm Piyakorn Panichwong!</strong>

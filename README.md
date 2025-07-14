@@ -45,7 +45,7 @@
   <h3>🏢 Internship Management System (Integrated Project)</h3>
   <p>A full-stack application to manage the entire internship lifecycle for the faculty.</p>
   <ul>
-    <li><strong>Tech:</strong> Vue.js, Node.js, Express.js</li>
+    <li><strong>Tech:</strong> Vue.js, Node.js </li>
     <li><strong>Key Features:</strong></li>
     <ul>
         <li>Developed the system from the ground up, implementing secure user authentication and a central dashboard.</li>

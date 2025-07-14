@@ -1,8 +1,8 @@
-<div align="center">
-  <a href="https://github.com/PiyakornP">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=3399FF&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+Piyakorn+%F0%9F%91%8B;A+Passionate+Back-End+Developer" alt="Typing SVG" />
-  </a>
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+  <br><br>
+  <strong>Hello, I'm Piyakorn Panichwong!</strong>
+</p>
 
 ---
 

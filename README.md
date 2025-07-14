@@ -1,10 +1,8 @@
-### 🤔 **About Me**
-
-I'm a recent **Back-End Developer** graduate from KMUTT, passionate about building and developing efficient web applications. I specialize in the **Node.js ecosystem** and am currently expanding my expertise into **Java & Spring Boot**.
-
-- 🔭 I’m currently looking for a challenging opportunity as a **Junior Back-End Developer**.
-- 💻 Proficient in full-stack development, from UI implementation to back-end architecture.
-- ✨ Fun Fact: I designed and contributed to a system that achieved a **99% data accuracy rate**.
+<div align="center">
+  <a href="https://github.com/PiyakornP">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=3399FF&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+Piyakorn+%F0%9F%91%8B;A+Passionate+Back-End+Developer" alt="Typing SVG" />
+  </a>
+</div>
 
 ---
 

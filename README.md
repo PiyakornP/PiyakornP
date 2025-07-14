@@ -55,7 +55,10 @@ I'm a recent **Back-End Developer** graduate from KMUTT, passionate about buildi
 
 ---
 
-### 📊 **My GitHub Stats**
+### 📊 My Language & Framework Stats
 
 <p align="center">
-  <a href="
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PiyakornP&layout=pie&theme=tokyonight&hide_border=true" />
+  </a>
+</p>

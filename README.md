@@ -1,16 +1,3 @@
-<div align="center">
-  <a href="https://github.com/PiyakornP">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=3399FF&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+Piyakorn+Panichwong;A+Passionate+Back-End+Developer;Always+Learning+New+Things" alt="Typing SVG" />
-  </a>
-</div>
-
-<div align="center">
-  <a href="mailto:piyakorn.pani@hotmail.com"><img src="https://img.shields.io/badge/Email-piyakorn.pani@hotmail.com-blue?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email"></a>
-  <a href="[PASTE YOUR LINKEDIN URL HERE]"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-</div>
-
----
-
 ### 🤔 **About Me**
 
 I'm a recent **Back-End Developer** graduate from KMUTT, passionate about building and developing efficient web applications. I specialize in the **Node.js ecosystem** and am currently expanding my expertise into **Java & Spring Boot**.

@@ -1,20 +1,24 @@
 
 <div align="center">
-  <img src="https://github.com/PiyakornP/PiyakornP/blob/main/download.png?raw=true" alt="Piyakorn - Developer on a cosmic journey" width="500px">
+  <img src="https://github.com/PiyakornP/PiyakornP/blob/main/download.png?raw=true" alt="Piyakorn - Developer on a cosmic journey" width="800">
 </div>
-  <br><br>
-  <strong>Hello, I'm Piyakorn Panichwong!</strong>
-</p>
+
+<br>
+
+<div align="center">
+  <h1>Hello, I'm Piyakorn Panichwong! 👋</h1>
+  <p><strong>A Junior Full-Stack Developer Graduate from KMUTT</strong></p>
+</div>
 
 ---
 
-### 🚀 **My Tech Stack**
+### 🚀 My Tech Stack
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,javascript,typescript,vue,react,tailwind,html,css" />
+    <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,javascript,typescript,vue,react,tailwind,html,css&perline=11" />
     <br>
-    <img src="https://skillicons.dev/icons?i=mysql,mongodb,docker,git,github,postman,vscode,idea" />
+    <img src="https://skillicons.dev/icons?i=mysql,mongodb,docker,git,github,postman,vscode,idea&perline=11" />
   </a>
 </p>
 

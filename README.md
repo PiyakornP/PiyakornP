@@ -2,8 +2,6 @@
 
 I'm a recent **Back-End Developer** graduate from KMUTT, passionate about building and developing efficient web applications. I specialize in the **Node.js ecosystem** and am currently expanding my expertise into **Java & Spring Boot**.
 
-I have hands-on experience from a **Full-Stack Developer internship** at Dev Forward Co., Ltd., where I contributed to a major web portal for **The Mall Group** and have independently developed a FinTech stock portfolio management system from scratch.
-
 - 🔭 I’m currently looking for a challenging opportunity as a **Junior Back-End Developer**.
 - 💻 Proficient in full-stack development, from UI implementation to back-end architecture.
 - ✨ Fun Fact: I designed and contributed to a system that achieved a **99% data accuracy rate**.
